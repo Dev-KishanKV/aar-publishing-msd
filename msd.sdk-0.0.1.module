@@ -1,0 +1,111 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.msd",
+    "module": "msd.sdk",
+    "version": "0.0.1",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.3.3"
+    }
+  },
+  "variants": [
+    {
+      "name": "releaseVariantReleaseApiPublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-api"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.31"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "msd.sdk-0.0.1.aar",
+          "url": "msd.sdk-0.0.1.aar",
+          "size": 82878,
+          "sha512": "22d78ba62b66b88622d25fdbe402dd9aef820d61953a66906bf7dd29baf951a20cd969d56c9cbfe10453c5bd272eaf95837e0ea085ddcb46f446f6befbe959fb",
+          "sha256": "53d41ab80f87aabcd0959c1f8bfdfe8669148111d067be19098437050f68ffb0",
+          "sha1": "f1ad8b5296d6001906bb392c153570269f8f8ec4",
+          "md5": "069196b7c1e3ce0726272041f53997bb"
+        }
+      ]
+    },
+    {
+      "name": "releaseVariantReleaseRuntimePublication",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.libraryelements": "aar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.5.31"
+          }
+        },
+        {
+          "group": "androidx.core",
+          "module": "core-ktx",
+          "version": {
+            "requires": "1.7.0"
+          }
+        },
+        {
+          "group": "org.jetbrains.kotlinx",
+          "module": "kotlinx-coroutines-android",
+          "version": {
+            "requires": "1.6.4"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "retrofit",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.retrofit2",
+          "module": "converter-gson",
+          "version": {
+            "requires": "2.9.0"
+          }
+        },
+        {
+          "group": "com.squareup.okhttp3",
+          "module": "okhttp",
+          "version": {
+            "requires": "4.9.1"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "msd.sdk-0.0.1.aar",
+          "url": "msd.sdk-0.0.1.aar",
+          "size": 82878,
+          "sha512": "22d78ba62b66b88622d25fdbe402dd9aef820d61953a66906bf7dd29baf951a20cd969d56c9cbfe10453c5bd272eaf95837e0ea085ddcb46f446f6befbe959fb",
+          "sha256": "53d41ab80f87aabcd0959c1f8bfdfe8669148111d067be19098437050f68ffb0",
+          "sha1": "f1ad8b5296d6001906bb392c153570269f8f8ec4",
+          "md5": "069196b7c1e3ce0726272041f53997bb"
+        }
+      ]
+    }
+  ]
+}
