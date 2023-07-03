@@ -35,11 +35,11 @@
         {
           "name": "msd.sdk-0.0.1.aar",
           "url": "msd.sdk-0.0.1.aar",
-          "size": 106640,
-          "sha512": "843d6b9ff9603a7252e4b4fb008482602d3f64a96e4b0457c96fc3adb5c5c3ae553ecd41732d150f12d406a9a926c637eeea20d14b4b23c31af071db9f9d38db",
-          "sha256": "b88ccecad6cb84e962ee16162ca6fb085495da5656d72f8278c5837f6349f85e",
-          "sha1": "e8bdbc15bb6b04eb882a01ca79f10ea88cc88cd9",
-          "md5": "63824076e5a0961e5454fbf2fbe53264"
+          "size": 107250,
+          "sha512": "c5fa1b760511a4b0cda264b807bcd8171fbdb816a170cce6a7f7bf9872b20ee1e1edbd9d97f74efb04623f7aa5ee7eb4ab2f628769b1784ab014350f82da9e2e",
+          "sha256": "15532cf112d54efc2d2db9967ce98d8e4d73421eb9121c27a29c9340fe5c9062",
+          "sha1": "c1a7b7cc20a1618fdd905526def6ed448b9e045e",
+          "md5": "82153edca73b481a4a0210d78f557aa1"
         }
       ]
     },
@@ -99,11 +99,11 @@
         {
           "name": "msd.sdk-0.0.1.aar",
           "url": "msd.sdk-0.0.1.aar",
-          "size": 106640,
-          "sha512": "843d6b9ff9603a7252e4b4fb008482602d3f64a96e4b0457c96fc3adb5c5c3ae553ecd41732d150f12d406a9a926c637eeea20d14b4b23c31af071db9f9d38db",
-          "sha256": "b88ccecad6cb84e962ee16162ca6fb085495da5656d72f8278c5837f6349f85e",
-          "sha1": "e8bdbc15bb6b04eb882a01ca79f10ea88cc88cd9",
-          "md5": "63824076e5a0961e5454fbf2fbe53264"
+          "size": 107250,
+          "sha512": "c5fa1b760511a4b0cda264b807bcd8171fbdb816a170cce6a7f7bf9872b20ee1e1edbd9d97f74efb04623f7aa5ee7eb4ab2f628769b1784ab014350f82da9e2e",
+          "sha256": "15532cf112d54efc2d2db9967ce98d8e4d73421eb9121c27a29c9340fe5c9062",
+          "sha1": "c1a7b7cc20a1618fdd905526def6ed448b9e045e",
+          "md5": "82153edca73b481a4a0210d78f557aa1"
         }
       ]
     }
